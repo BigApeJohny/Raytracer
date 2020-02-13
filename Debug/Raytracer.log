@@ -1,0 +1,16 @@
+﻿  InputReader.cpp
+  Raytracer.cpp
+E:\Studia\Raytracer\Raytracer\Ray.h(8,1): warning C4005: 'INFINITY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(90): message : see previous definition of 'INFINITY'
+E:\Studia\Raytracer\Raytracer\Ray.h(55,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xtgmath.h(24,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+E:\Studia\Raytracer\Raytracer\Ray.h(70,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Studia\Raytracer\Raytracer\Raytracer.cpp(24,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Studia\Raytracer\Raytracer\Raytracer.cpp(26,24): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+E:\Studia\Raytracer\Raytracer\Raytracer.cpp(28,28): warning C4018: '<': signed/unsigned mismatch
+E:\Studia\Raytracer\Raytracer\Raytracer.cpp(29,32): warning C4018: '<': signed/unsigned mismatch
+E:\Studia\Raytracer\Raytracer\Raytracer.cpp(30,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Studia\Raytracer\Raytracer\Raytracer.cpp(31,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Studia\Raytracer\Raytracer\Raytracer.cpp(40,28): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Raytracer.vcxproj -> E:\Studia\Raytracer\Debug\Raytracer.exe
